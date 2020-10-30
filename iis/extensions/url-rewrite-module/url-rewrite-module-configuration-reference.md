@@ -320,7 +320,7 @@ The module controls output caching either by altering certain caching properties
     - "UNENCODED\_URL"
     - "URL"
     - "URL\_PATH\_INFO"
-    - ""APP\_POOL\_ID"
+    - "APP\_POOL\_ID"
     - "APPL\_MD\_PATH"
     - "APPL\_PHYSICAL\_PATH"
     - "GATEWAY\_INTERFACE"
